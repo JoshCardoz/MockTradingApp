@@ -13,7 +13,7 @@ This app offers a simulated stock trading experience, enabling users to engage i
 ### 🔜 Future Enhancements
 - **Leaderboard Functionality**: A competitive feature to rank users based on their trading performance.
 - **Enhanced Stock Details**: Inclusion of comprehensive stock information like market cap, moving averages, and more.
-- **Deployment**: Once the aforementioned features are incorporated, the aim is to make the app publicly available for everyone to enjoy.
+- **Deployment**: Once the mentioned features are incorporated, the aim is to make the app publicly available for everyone to enjoy.
 
 ## 🛠️ Built With
 - **Javascript**
