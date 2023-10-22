@@ -1,8 +1,0 @@
-{
-    "scripts": {
-        "start": "concurrently \"cd client && npm start\" \"node server/src/index.js\""
-    },
-    "dependencies": {
-        "dotenv": "^16.3.1"
-    }
-}
