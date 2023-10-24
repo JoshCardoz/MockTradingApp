@@ -16,11 +16,12 @@ This app offers a simulated stock trading experience, enabling users to engage i
 - **Deployment**: Once the mentioned features are incorporated, the aim is to make the app publicly available for everyone to enjoy.
 
 ## 🛠️ Built With
-- ![JavaScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-- ![React Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **[React](https://reactjs.org/)**
-- ![Express Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **[Express](https://expressjs.com/)**
-- ![MongoDB Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) **[MongoDB](https://www.mongodb.com/)**
-- ![TailwindCSS Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) **[TailwindCSS](https://tailwindcss.com/)**
+- **Javascript**
+- **React**
+- **Express**
+- **MongoDB**
+- **TailwindCSS**
+
 
 
 
