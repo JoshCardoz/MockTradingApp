@@ -8,7 +8,7 @@ https://github.com/Vromaniac/MockTradingApp/assets/115129648/59ebacd5-a304-4006-
 
 
 ## 📜 About
-This app offers a simulated stock trading experience, enabling users to engage in trading activities without the risks associated with real capital. One of the core inspirations behind this project was to introduce a gamified element to trading, allowing users to compete with friends and see who achieves the highest yield over a designated timeframe.
+This app offers a simulated stock trading experience, enabling users to engage in trading activities without the risks associated with real capital. One of the core inspirations behind this project was to introduce a gamified element to trading, allowing users to compete with friends and see who can grow their portfolio the most in a given timeframe.
 
 ### 🔜 Future Enhancements
 - **Leaderboard Functionality**: A competitive feature to rank users based on their trading performance.
