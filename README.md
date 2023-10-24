@@ -16,10 +16,11 @@ This app offers a simulated stock trading experience, enabling users to engage i
 - **Deployment**: Once the mentioned features are incorporated, the aim is to make the app publicly available for everyone to enjoy.
 
 ## 🛠️ Built With
-- **Javascript**
-- **React**
-- **Express**
-- **MongoDB**
-- **TailwindCSS**
+- **[Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- **[React](https://reactjs.org/)**
+- **[Express](https://expressjs.com/)**
+- **[MongoDB](https://www.mongodb.com/)**
+- **[TailwindCSS](https://tailwindcss.com/)**
+
 
 
